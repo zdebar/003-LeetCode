@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf0fb084-62d9-4ae9-a8d6-c2cf4ba3a8de" name="Changes" comment="Break">
-      <change afterPath="$PROJECT_DIR$/Array_String/1071_GDC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array_String/Can_Place_Flowers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array_String/Increasing_Triplet_Subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array_String/String_Compression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP-1D/746.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash_Map/1207.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash_Map/1657.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash_Map/2215.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash_Map/2390.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intervals/435.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prefix_Sum/1732_Highest_Altitude.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prefix_Sum/724_Pivot_Index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sliding_Window/1004_Max_Consecutive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sliding_Window/1456_Maximum_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sliding_Window/Maximum_Average_Subarray_I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Two Pointers/Is_Subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Two Pointers/Max_Number_of_K-Sum_Pairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cf0fb084-62d9-4ae9-a8d6-c2cf4ba3a8de" name="Changes" comment="Day over" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +49,8 @@
     "Python.Maximum_Average_Subarray_I.executor": "Run",
     "Python.String_Compression.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -103,12 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713242439975</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day over">
+      <option name="closed" value="true" />
+      <created>1713276038075</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713276038075</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Break" />
-    <option name="LAST_COMMIT_MESSAGE" value="Break" />
+    <MESSAGE value="Day over" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day over" />
   </component>
 </project>
