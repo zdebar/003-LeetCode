@@ -4,23 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf0fb084-62d9-4ae9-a8d6-c2cf4ba3a8de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LeetCode_75.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array_String/Kids_With_Greatest_Number_Of_Candies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array_String/Merge_Strings_Alternately.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array_String/Product_of_Array_Except_Self.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array_String/Reverse_Vowels_of_a_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array_String/Reverse_Words_in_a_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked_List/Reverse_Linked_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Monotonic_Stack/Daily_Temperatures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Two Pointers/Container_With_Most_Water.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Two Pointers/Move_Zeroes.py" afterDir="false" />
+    <list default="true" id="cf0fb084-62d9-4ae9-a8d6-c2cf4ba3a8de" name="Changes" comment="Break">
+      <change afterPath="$PROJECT_DIR$/Array_String/1071_GDC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array_String/Can_Place_Flowers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array_String/Increasing_Triplet_Subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array_String/String_Compression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP-1D/746.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash_Map/1207.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash_Map/1657.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash_Map/2215.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash_Map/2390.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intervals/435.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prefix_Sum/1732_Highest_Altitude.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prefix_Sum/724_Pivot_Index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliding_Window/1004_Max_Consecutive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliding_Window/1456_Maximum_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliding_Window/Maximum_Average_Subarray_I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Pointers/Is_Subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Pointers/Max_Number_of_K-Sum_Pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.1071_GDC.executor": "Run",
+    "Python.1207.executor": "Run",
+    "Python.1456_Maximum_Number.executor": "Run",
+    "Python.2352.executor": "Run",
+    "Python.2390.executor": "Run",
+    "Python.435.executor": "Run",
+    "Python.724_Pivot_Index.executor": "Run",
+    "Python.746.executor": "Run",
+    "Python.Can_Place_Flowers.executor": "Run",
     "Python.Greatest_Common_Divisor_of_Strings.executor": "Run",
+    "Python.Is_Subsequence.executor": "Run",
+    "Python.Max_Number_of_K-Sum_Pairs.executor": "Run",
+    "Python.Maximum_Average_Subarray_I.executor": "Run",
+    "Python.String_Compression.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -72,9 +87,28 @@
       <option name="presentableId" value="Default" />
       <updated>1713237624820</updated>
     </task>
+    <task id="LOCAL-00001" summary="Break">
+      <option name="closed" value="true" />
+      <created>1713242406101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713242406101</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Break">
+      <option name="closed" value="true" />
+      <created>1713242439975</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713242439975</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Break" />
+    <option name="LAST_COMMIT_MESSAGE" value="Break" />
   </component>
 </project>
